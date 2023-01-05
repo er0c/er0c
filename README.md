@@ -1,9 +1,6 @@
-### Hi there 👋
-
-**er0c/er0c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hello!
+  I am Eric Nguyen, currently, I am a First-Year at Lehigh University majoring in Computer Science and Business.
+  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
