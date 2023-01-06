@@ -10,5 +10,3 @@
 😄 Pronouns: ...
 ⚡ Fun fact: 
 
-<img align/>
-
