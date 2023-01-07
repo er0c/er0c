@@ -1,4 +1,109 @@
 
+  <!DOCTYPE html>
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+
+  <style>
+@keyframes scroll{
+  0%{bakground-position: 0,0 ;}
+  100%{background-position: 100vw,0 ;}
+}
+
+@keyframes bob{
+0%{top:0px;}
+10%{top:50px;}
+20%{top:0px;}
+30%{top:50px;}
+40%{top:0px;}
+50%{top:50px;}
+60%{top:0px;}
+70%{top:50px;}
+80%{top:0px;}
+90%{top:50px;}
+100%{top:0px;}
+}
+    body {
+      background-image: url("clouds.jpg");
+      background-size: cover;
+      bakground-repeat: repeat-x;
+      animation: scroll 20s linear infinite; 
+		}
+
+    img {
+      position: relative;
+			display: flex;
+			margin: 0 auto;
+      height:300px; width:450px;
+      padding: 25px 25px;
+      animation-name: bob;
+      animation-duration: 20s;
+      animation-iteration-count: infinite;
+      animation-timing-function: cubic-bezier(0,0,0,0);
+      /* animation: bob 20s linear infinte; */
+		}
+
+		.form {
+      size: 70px;
+			text-align: center;
+      border-width: 10px;
+      padding: 25px 25px;
+  
+		}
+
+    h1{
+      font-family: 'Indie Flower', cursive;
+      text-align: center; 
+      font-size: 70px ;
+      padding: 25px,0;
+    }
+    #Password{
+         display: inline-block;
+        height: 25px;
+        width: 200px;
+        border-radius: 100px;
+        border-color: (rgb(118, 118, 118), rgb(195, 195, 195));
+
+    }
+
+    #Enter{ 
+        display: inline-block;
+        height: 25px;
+        width: 100px;
+        border-radius: 100px;
+        border-color: (rgb(118, 118, 118), rgb(195, 195, 195));
+    }
+
+    h2{
+      text-align: center;
+      font-family: 'Yanone Kaffeesatz', sans-serif;
+
+    }
+	</style>
+</head>
+<body>
+
+
+	<h1>Rawrsuron</h1>
+  <img title="rawrr" src="iamdrago.png" >
+
+	<div class="form">
+	  <h2>Please Login</h2>
+    <input id="Password" placeholder="Password">
+    <button id="Enter">Enter</button>
+	</div>
+<script>
+		document.getElementById('Enter').onclick = () => {
+			document.getElementById('Password').value = "";
+			alert('WRONG, BEGONE');
+      window.top.close();
+		};
+    
+	</script>
+
+</body>
+</html>
+
 <h1 align="center">Hello World, I'm Eric Nguyen</h1>
 <h3 align="center">I am a aspiring software developer.</h3>
 
