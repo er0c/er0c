@@ -3,7 +3,7 @@
 <h3 align="center">I am a aspiring software developer.</h3>
 
 #### Breif Introduction -
-  I am a First-Year at Lehigh University majoring in Computer Science and Business. I live in Philadelphia, PA and I plan on performing resserach on Artifiical Intelligence, Machine Learning, and Virtual Reality to someday be a Pioneer in the new era of technology.
+  I'm a First Year at Lehigh University. Majoring in Computer Science & Business in their CSB Honors Program. I have over 3 years of coding experience and want to dive deeper into the new era of technology, which consists of machine learning, artificial intelligence, and virtual reality. I plan to do reserach within the new era of rechnology to someday be a pioneer and push for advancements in today's technlogy.
  
 
 -  I’m currently learning **Unity**
