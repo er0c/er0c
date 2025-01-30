@@ -7,8 +7,6 @@
  
  
 
--  I’m currently learning **Unity**
-
 -  How to reach me: **eric.nguyen103@gmail.com**
 
 -  My experiences: https://docs.google.com/document/d/1AJw7JkKKdEzWD0S3HBea8caATkScLDGpr-If3ORrzDc/edit?usp=sharing (resume)
